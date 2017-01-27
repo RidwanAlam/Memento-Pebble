@@ -1,0 +1,32 @@
+{
+    "author": "ridwan.alam.bd@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "memento",
+    "pebble": {
+        "displayName": "Memento",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/va_bw.png",
+                    "menuIcon": true,
+                    "name": "IMAGE_MENU",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "8959c506-bb4a-4837-88c8-3f80ded68f88",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
